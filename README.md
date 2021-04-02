@@ -1,5 +1,4 @@
-**PROJECT GOAL**
-**Predict the Sentiment of a Given Tweet.**
+**Predict the Sentiment of a Given Tweet**
 
 Provided a dataset that contained tweets labeled as positive, negative, or nuetral, 
 I achieved this objective by building a NLP sequencing model with TensorFlow in Python.
