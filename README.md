@@ -13,5 +13,5 @@ Step by step approach :
 7) Build a method to make predictions!
 
 
-<img src="/tweet_model_visualization_positive.png" height="300"/>
-<img src="/tweet_model_visualization_negative.png" height="300"/>
+<img src="/tweet_model_visualization_positive.png" height="280"/>
+<img src="/tweet_model_visualization_negative.png" height="280"/>
