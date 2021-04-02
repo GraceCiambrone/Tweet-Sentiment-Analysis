@@ -1,4 +1,4 @@
-<h2>**Predict the Sentiment of a Given Tweet**</h2>
+<h2>Predict the Sentiment of a Given Tweet</h2>
 
 Provided a dataset that contained tweets labeled as positive, negative, or nuetral, 
 I achieved this objective by building a NLP sequencing model with TensorFlow in Python.
