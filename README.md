@@ -1,9 +1,9 @@
-**Predict the Sentiment of a Given Tweet**
+<h2>**Predict the Sentiment of a Given Tweet**</h2>
 
 Provided a dataset that contained tweets labeled as positive, negative, or nuetral, 
 I achieved this objective by building a NLP sequencing model with TensorFlow in Python.
 
-Step by step approach :
+Step by step approach : </n>
 1) Obtain the data
 2) Explore the data for greater understanding.
 3) Preprocess, sequence, and pad the text and one-hot encode the labels.
@@ -12,6 +12,8 @@ Step by step approach :
 6) Create visualizations of the trained model for greater understanding.
 7) Build a method to make predictions!
 
+
+<br />
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/32147374/113439221-250ff380-93b8-11eb-994b-051cabcbbf54.png">
