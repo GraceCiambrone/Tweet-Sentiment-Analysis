@@ -12,5 +12,6 @@ Step by step approach :
 6) Create visualizations of the trained model for greater understanding.
 7) Build a method to make predictions!
 
-![](tweet_model_visualization_negative.png)
-![](tweet_model_visualization_positive.png)
+
+<img src="/tweet_model_visualization_positive.png" height="300"/>
+<img src="/tweet_model_visualization_negative.png" height="300"/>
