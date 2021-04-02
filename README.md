@@ -3,7 +3,7 @@
 Provided a dataset that contained tweets labeled as positive, negative, or nuetral, 
 I achieved this objective by building a NLP sequencing model with TensorFlow in Python.
 
-How I approached this problem.
+Step by step approach :
 1) Obtain the data
 2) Explore the data for greater understanding.
 3) Preprocess and sequence the text and one-hot encode the labels.
