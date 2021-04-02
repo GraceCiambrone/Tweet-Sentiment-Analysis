@@ -12,4 +12,4 @@ Step by step approach :
 6) Create visualizations of the trained model for greater understanding.
 7) Build a method to make predictions!
 
-![Alt text](home/gkc/Pictures/tweet_model_visualization_negative.png?raw=true "Title")
+(home/gkc/Pictures/tweet_model_visualization_negative.png?raw=true "Title")
