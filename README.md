@@ -1,11 +1,7 @@
 <h2>Predict the Sentiment of a Given Tweet</h2>
-Tools: Python, TensorFlow, Numpy, Pandas, Matplotlib
+Tools: 
+<span style="color: red">Python, TensorFlow, Numpy, Pandas, Matplotlib</span>
 
-```diff
-# tools used: 
-! Tools: Python, TensorFlow, Numpy, Pandas, Matplotlib
-@@ text in purple (and bold)@@
-```
 An NLP sequencing model I built using a dataset containing labeled tweets.
 
 Step by step approach : </n>
