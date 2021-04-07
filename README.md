@@ -1,7 +1,7 @@
 <h2>Predict the Sentiment of a Given Tweet</h2>
   
 ```diff
-+ Python, TensorFlow, Numpy, Pandas, Matplotlib
+ Python, TensorFlow, Numpy, Pandas, Matplotlib
 ```
 
 <br />
