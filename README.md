@@ -1,5 +1,4 @@
 <h2>Predict the Sentiment of a Given Tweet</h2>
-<br />
 <n></n>
 An NLP sequencing model I built using a dataset containing labeled tweets.
 
